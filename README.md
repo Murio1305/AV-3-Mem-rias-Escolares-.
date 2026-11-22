@@ -2,7 +2,7 @@
 
 Página pessoal e interativa desenvolvida como projeto final do Ensino Médio, unindo o aprendizado prático de desenvolvimento web (HTML, CSS e JavaScript) ao registro da minha caminhada escolar e das minhas produções textuais.
 
-🔗 **Acesse o site online:** [COLE AQUI O LINK DO SEU GITHUB PAGES]
+🔗 **Acesse o site online:** [](https://murio1305.github.io/AV-3-Mem-rias-Escolares-./)]
 
 ---
 
